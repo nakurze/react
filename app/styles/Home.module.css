@@ -1,0 +1,10 @@
+.main {
+  padding: 2rem;
+  display: grid;
+  place-content: center;
+}
+
+.h2 {
+  margin: 0;
+  text-align: center;
+}
