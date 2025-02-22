@@ -1,0 +1,7 @@
+.header {
+  height: 6.4rem;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  background-color: darkslateblue;
+}
