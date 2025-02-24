@@ -1,0 +1,32 @@
+.container {
+  min-height: 100%;
+  max-width: 76rem;
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+.links {
+  position: relative;
+  top: 1px;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 8px 8px 0 0;
+}
+
+.button:not(:first-of-type) {
+  margin-left: -1px;
+}
+
+.active {
+  composes: button;
+  border-bottom: 1px solid white;
+}
+
+.content {
+  padding: 1rem;
+  border: 1px solid black;
+}
