@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "Záložka 1",
+    "isActive": true,
+    "content": "Excepturi sed, quo reprehenderit alias unde quidem numquam, obcaecati hic distinctio iure architecto laudantium natus nihil libero tempore aliquid, vero magnam ratione?"
+  },
+
+  {
+    "id": 2,
+    "title": "Záložka 2",
+    "isActive": false,
+    "content": "In obcaecati, exercitationem modi, commodi autem, sequi ipsa dolor dolorem perspiciatis fugit cum nulla omnis possimus saepe maiores? Placeat exercitationem error asperiores!"
+  }
+]

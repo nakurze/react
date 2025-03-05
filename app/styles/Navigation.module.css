@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+}
+
+.navlink {
+  width: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+  text-decoration-color: transparent;
+  text-underline-offset: 0.4rem;
+}
+
+.navlink:global(.active) {
+  text-decoration: wavy underline;
+}
